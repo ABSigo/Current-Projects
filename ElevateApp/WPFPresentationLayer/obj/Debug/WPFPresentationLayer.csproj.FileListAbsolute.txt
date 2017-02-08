@@ -1,0 +1,116 @@
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe.config
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\App.g.cs
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer_MarkupCompile.cache
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.g.resources
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.Properties.Resources.resources
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.exe
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.pdb
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe.config
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\App.g.cs
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer_MarkupCompile.cache
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.g.resources
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.Properties.Resources.resources
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csproj.GenerateResource.Cache
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.exe
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe.config
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.exe
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditTrainer.baml
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmChangePassword.baml
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditMember.baml
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditTrainer.g.cs
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmChangePassword.g.cs
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditMember.g.cs
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\App.g.cs
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer_MarkupCompile.cache
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.g.resources
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.Properties.Resources.resources
+C:\Users\nh229u08\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe.config
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.pdb
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditTrainer.baml
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmChangePassword.baml
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditMember.baml
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditTrainer.g.cs
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmChangePassword.g.cs
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditMember.g.cs
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\App.g.cs
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer_MarkupCompile.cache
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.g.resources
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.Properties.Resources.resources
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.exe
+C:\Users\Blake\Desktop\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.pdb
+C:\Users\Blake\Desktop\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe.config
+C:\Users\Blake\Desktop\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.exe
+C:\Users\Blake\Desktop\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe.config
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.exe
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.dll
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.dll
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.dll
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataObjects.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppLogicLayer.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\bin\Debug\ElevateAppDataAccess.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csprojResolveAssemblyReference.cache
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditTrainer.baml
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\frmChangePassword.baml
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditMember.baml
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.baml
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditTrainer.g.cs
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\frmChangePassword.g.cs
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\frmAddEditMember.g.cs
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\MainWindow.g.cs
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\App.g.cs
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer_MarkupCompile.cache
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.g.resources
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.Properties.Resources.resources
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csproj.GenerateResource.Cache

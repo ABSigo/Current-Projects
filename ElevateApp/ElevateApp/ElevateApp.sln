@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevateAppDataAccess", "ElevateAppDataAccess\ElevateAppDataAccess.csproj", "{24FCE14E-15BD-4792-A790-2AC7C6B88C12}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A6C5FF37-5444-47A5-954A-A0E0FA18BAED} = {A6C5FF37-5444-47A5-954A-A0E0FA18BAED}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevateAppDataObjects", "ElevateAppDataObjects\ElevateAppDataObjects.csproj", "{A6C5FF37-5444-47A5-954A-A0E0FA18BAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevateAppLogicLayer", "ElevateAppLogicLayer\ElevateAppLogicLayer.csproj", "{5382B128-7ABA-4D31-8EDE-1F1C1887BA7B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A6C5FF37-5444-47A5-954A-A0E0FA18BAED} = {A6C5FF37-5444-47A5-954A-A0E0FA18BAED}
+		{24FCE14E-15BD-4792-A790-2AC7C6B88C12} = {24FCE14E-15BD-4792-A790-2AC7C6B88C12}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleForElevateApp", "TestConsoleForElevateApp\TestConsoleForElevateApp.csproj", "{7BE5D8C6-52F0-4BBA-BD08-5F8AB02299F6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5382B128-7ABA-4D31-8EDE-1F1C1887BA7B} = {5382B128-7ABA-4D31-8EDE-1F1C1887BA7B}
+		{A6C5FF37-5444-47A5-954A-A0E0FA18BAED} = {A6C5FF37-5444-47A5-954A-A0E0FA18BAED}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFPresentationLayer", "WPFPresentationLayer\WPFPresentationLayer.csproj", "{8006C687-998F-4B5C-8313-8753F00048B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FCE14E-15BD-4792-A790-2AC7C6B88C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FCE14E-15BD-4792-A790-2AC7C6B88C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FCE14E-15BD-4792-A790-2AC7C6B88C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FCE14E-15BD-4792-A790-2AC7C6B88C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C5FF37-5444-47A5-954A-A0E0FA18BAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C5FF37-5444-47A5-954A-A0E0FA18BAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C5FF37-5444-47A5-954A-A0E0FA18BAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C5FF37-5444-47A5-954A-A0E0FA18BAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5382B128-7ABA-4D31-8EDE-1F1C1887BA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5382B128-7ABA-4D31-8EDE-1F1C1887BA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5382B128-7ABA-4D31-8EDE-1F1C1887BA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5382B128-7ABA-4D31-8EDE-1F1C1887BA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE5D8C6-52F0-4BBA-BD08-5F8AB02299F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE5D8C6-52F0-4BBA-BD08-5F8AB02299F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE5D8C6-52F0-4BBA-BD08-5F8AB02299F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE5D8C6-52F0-4BBA-BD08-5F8AB02299F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8006C687-998F-4B5C-8313-8753F00048B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8006C687-998F-4B5C-8313-8753F00048B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8006C687-998F-4B5C-8313-8753F00048B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8006C687-998F-4B5C-8313-8753F00048B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

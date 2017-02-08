@@ -1,0 +1,132 @@
+﻿<Window x:Class="WPFPresentationLayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Elevate Vertical Fitness" FontFamily="Georgia" Height="450" Width="1215" Loaded="Window_Loaded">
+
+    <Border Background="Purple">
+        <Grid>
+            <Grid.Background>
+                <ImageBrush ImageSource="JoySilkedit.jpg"/>
+            </Grid.Background>
+                <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="50" />
+                <RowDefinition/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Menu FontFamily="Georgia" Grid.Row="0">
+                <MenuItem Header="File">
+                    <MenuItem Name="mnuQuit" Header="Quit" HorizontalAlignment="Left" Width="Auto" Click="mnuQuit_Click"/>
+                </MenuItem>
+                <MenuItem Header="Edit">
+                    <MenuItem Name="mnuPreferences" Header="Preferences" HorizontalAlignment="Left" Width="Auto"/>
+                </MenuItem>
+                <MenuItem Header="User Settings">
+                    <MenuItem Name="mnuChangePassword" Header="Change Password" HorizontalAlignment="Left" Width="Auto" Click="mnuChangePassword_Click"/>
+                </MenuItem>
+                <MenuItem Header="Help">
+                    <MenuItem Name="mnuHelp" Header="Help" HorizontalAlignment="Left" Width="Auto"/>
+                    <MenuItem Name="mnuAbout" Header="About" HorizontalAlignment="Left" Width="Auto"/>
+                </MenuItem>
+            </Menu>
+            <Grid Grid.Row="1" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition  />
+                    <ColumnDefinition  />
+                    <ColumnDefinition  />
+                    <ColumnDefinition  />
+                    <ColumnDefinition  />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <TextBox Name="txtEmail" Grid.Column="2" Margin="3 4 3 0" Grid.Row="0"/>
+                <Label Name="lblEmail" Grid.Column="2" Grid.Row="1" Padding="0" Content="Username" FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <PasswordBox Name="txtPassword" Grid.Column="3" Margin="3 4 3 0"/>
+                <Label Name="lblPassword" Grid.Column="3" Grid.Row="1" Padding="0" Content="Password" FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Button Name="btnLogin" Grid.Column="4" Grid.Row="0" Content="Login" Margin="3 4 0 0" FontSize="10" Padding="15 0" HorizontalAlignment="Left" Click="btnLogin_Click"/>
+            </Grid>
+            <TabControl Name="tabsetMain" Grid.Row="2">
+                <TabItem Name="tabSchedule"   Header="Schedule" HorizontalAlignment="Left" Height="20" Margin="0" VerticalAlignment="Top" Width="Auto">
+                    <Grid Background="Blue" Margin="7,0,-7,0">
+                        <Image Grid.RowSpan="2" Source="JoySilkedit.jpg" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        <DataGrid Name="dgSchedule" GridLinesVisibility="Horizontal" 
+                              AlternatingRowBackground="#FFE5E37F" RowBackground="#FFBAABE8"  
+                              IsSynchronizedWithCurrentItem="True" SelectionMode="Single" 
+                              CanUserReorderColumns="False" 
+                              ItemsSource="{Binding}" CanUserDeleteRows="False" IsReadOnly="True"/>
+                    </Grid>
+                </TabItem>
+                <TabItem Name="tabTrainers" Header="Trainers" HorizontalAlignment="Left" Height="20" Margin="0" VerticalAlignment="Top" Width="Auto">
+                    <Grid Background="#FFBAABE8" Margin="7,0,-7,0">
+                        <Image Grid.RowSpan="2" Source="JoySilkedit.jpg" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        <DataGrid x:Name="dgTrainers" GridLinesVisibility="Horizontal" 
+                              AlternatingRowBackground="#FFE5E37F" RowBackground="#FFBAABE8"  
+                              IsSynchronizedWithCurrentItem="True" SelectionMode="Single" 
+                              CanUserReorderColumns="False" 
+                              ItemsSource="{Binding}" CanUserDeleteRows="False" IsReadOnly="True"/>
+                        <Grid Grid.Row="1" Margin="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <!--<Button x:Name="btnAddTrainers" Content="Add Trainer" Grid.Row="6" Grid.Column="3" Margin="7 7 7 7"/>
+                            <Button x:Name="btnEditTrainers" Content="Edit Trainer" Grid.Row="6" Grid.Column="4" Margin="7 7 7 7"/>-->
+                        </Grid>
+                    </Grid>
+                </TabItem>
+                <TabItem Name="tabMembers" Header="Members" HorizontalAlignment="Left" Height="20" Margin="0,0,-12,0" VerticalAlignment="Top" Width="68">
+                    <Grid Background="#FFE5E37F" Margin="7,0,-7,0">
+                        <Image Grid.RowSpan="2" Source="JoySilkedit.jpg" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                        <DataGrid Name="dgMembers" GridLinesVisibility="Horizontal" 
+                              AlternatingRowBackground="#FFE5E37F" RowBackground="#FFBAABE8"  
+                              IsSynchronizedWithCurrentItem="True" SelectionMode="Single" 
+                              CanUserReorderColumns="False" 
+                              ItemsSource="{Binding}" CanUserDeleteRows="False" IsReadOnly="True" />
+                        <Grid Grid.Row="1" Margin="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Button x:Name="btnAddMember"  Grid.Column="3" Grid.Row="5" Content="Add Member" Margin="25 5 " Click="btnAddMember_Click_1"/>
+                            <Button x:Name="btnEditMember" Grid.Column="4" Grid.Row="5" Content="Edit Member" Margin="25 5" Click="btnEditMember_Click"/>
+                        </Grid>
+                    </Grid>
+
+                </TabItem>
+
+            </TabControl>
+            <StatusBar Grid.Row="3" Name="MainStatusBar" ToolTip="" BorderBrush="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}">
+                <StatusBarItem Grid.Column="0" Name="statusMessage" Margin="10 0" Content="Please log in to continue...." VerticalAlignment="Top" BorderBrush="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+                <StatusBarItem Grid.Column="1" Name="statusUpdate" Margin="0 0" Content="Messages will appear here...." VerticalAlignment="Top" BorderBrush="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+            </StatusBar>
+
+        </Grid>
+
+    </Border>
+</Window>

@@ -1,0 +1,45 @@
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.dll
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.pdb
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.dll
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.dll
+C:\Users\nh229u08\Desktop\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.dll
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppLogicLayer.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.dll
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.dll
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataAccess.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\bin\Debug\ElevateAppDataObjects.pdb
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.csprojResolveAssemblyReference.cache
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.dll
+F:\Ariel's Homework\FinalProjectDotNet!!\ElevateApp\ElevateAppLogicLayer\obj\Debug\ElevateAppLogicLayer.pdb

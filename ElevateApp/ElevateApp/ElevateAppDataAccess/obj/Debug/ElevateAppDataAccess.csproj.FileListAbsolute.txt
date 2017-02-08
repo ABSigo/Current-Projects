@@ -1,0 +1,28 @@
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataAccess.dll
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataAccess.pdb
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.dll
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.dll
+C:\Users\nh229u14\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\ElevateAppDataAccess\obj\Debug\ElevateAppDataAccess.csprojResolveAssemblyReference.cache

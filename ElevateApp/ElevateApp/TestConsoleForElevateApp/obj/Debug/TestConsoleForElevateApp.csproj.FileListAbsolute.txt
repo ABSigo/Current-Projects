@@ -1,0 +1,36 @@
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.exe.config
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.exe
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.pdb
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.exe
+c:\users\blake\documents\visual studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Documents\Visual Studio 2013\Projects\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.exe.config
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.exe
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.pdb
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.exe
+C:\Users\Blake\Desktop\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.exe.config
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.exe
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\TestConsoleForElevateApp.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataObjects.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppLogicLayer.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataAccess.dll
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataObjects.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppLogicLayer.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\bin\Debug\ElevateAppDataAccess.pdb
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.exe
+C:\Users\Blake\Desktop\ElevateApp\ElevateApp\TestConsoleForElevateApp\obj\Debug\TestConsoleForElevateApp.pdb
