@@ -3,7 +3,7 @@ echo off
 rem batch file to run a script to create a db
 rem 9/4/2016
 
-sqlcmd -S  localhost\SQLEXPRESS -E  -i elevateDB.sql
+sqlcmd -S  localhost -E  -i elevateDB.sql
 
 
 ECHO .
