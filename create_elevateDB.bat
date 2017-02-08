@@ -9,3 +9,4 @@ sqlcmd -S  localhost -E  -i elevateDB.sql
 ECHO .
 ECHO if no error messages appear DB was created
 PAUSE
+
